@@ -1,1 +1,17 @@
+{
+  "tasks": [
+    {
+      "name": "Follow Whale Chanel",
+      "platform": "GR"
+    },
+    {
+      "name": "Follow GD10 Capital",
+      "platform": "WEB"
+    },
+    {
+      "name": "Follow TenX Studios",
+      "platform": "WEB"
+    }
+  ]
+}
 
